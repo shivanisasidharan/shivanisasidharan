@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋, I'm Shivani S  
 
-<!--
-**shivanisasidharan/shivanisasidharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *B.Tech Computer Science (AIML) Student*  
+🤖 *Passionate about Artificial Intelligence & Machine Learning*  
+🚀 Exploring intelligent systems and real-world AI applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Science student specializing in *Artificial Intelligence & Machine Learning*, with a strong passion for understanding how intelligent systems work and how data can be transformed into meaningful insights.
+
+I enjoy:
+- Learning and applying *AI & ML concepts*
+- Writing clean and efficient *Python and Java* code
+- Solving problems and improving my logical thinking skills  
+- Continuously growing through hands-on practice and projects  
+
+---
+
+## 🛠️ Technical Skills
+
+*Languages*
+- Python
+- Java
+
+*AI / ML*
+- Machine Learning
+- NumPy
+
+*Tools & Concepts*
+- Git & GitHub
+- Object-Oriented Programming
+- Problem Solving
+
+---
+
+## 📌 Current Focus
+- Deepening my knowledge in *AI & Machine Learning*
+- Strengthening *Java programming* fundamentals
+- Working on academic and personal *AIML projects*
+
+---
+
+## 🌱 Learning Goals
+- Advanced Machine Learning techniques  
+- Data handling and optimization  
+- Building scalable and efficient solutions  
+
+---
+
+## 🤝 Contact
+📧 Email: Add your email here when ready
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
