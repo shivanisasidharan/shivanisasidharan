@@ -49,7 +49,7 @@ I enjoy:
 ---
 
 ## 🤝 Contact
-📧 Email: Add your email here when ready
+📧 Email: shivani.sasidharan272005@gmail.com
 
 ---
 
