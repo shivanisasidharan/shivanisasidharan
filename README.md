@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Shivani S  
-<img src="https://skillicons.dev/icons?i=python,java,linkdin,numpy,git,github,css" />
+
 🎓 *B.Tech Computer Science (AIML) Student*  
 🤖 *Passionate about Artificial Intelligence & Machine Learning*  
 🚀 Exploring intelligent systems and real-world AI applications  
 
 ---
+<img src="https://skillicons.dev/icons?i=python,java,linkdin,numpy,git,github,css" />
 
 ## 👩‍💻 About Me
 I am a Computer Science student specializing in *Artificial Intelligence & Machine Learning*, with a strong passion for understanding how intelligent systems work and how data can be transformed into meaningful insights.
