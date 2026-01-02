@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Shivani S  
-<img src="https://skillicons.dev/icons?i=python,java,numpy,git,github,css" />
+<img src="https://skillicons.dev/icons?i=python,java,linkdin,numpy,git,github,css" />
 🎓 *B.Tech Computer Science (AIML) Student*  
 🤖 *Passionate about Artificial Intelligence & Machine Learning*  
 🚀 Exploring intelligent systems and real-world AI applications  
